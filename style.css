@@ -236,9 +236,7 @@ nav .fa{
     left: 0;
     transition: .3s ease-in-out;
 }
-/* .course-col img:hover > .layer{
-    display: block;
-} */
+
 .layer:hover{
     background: rgba(226, 163, 45, 0.637);
     cursor: pointer;
